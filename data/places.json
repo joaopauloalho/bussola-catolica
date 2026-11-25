@@ -1,0 +1,1760 @@
+{
+  "updatedAt": "2026-11-25",
+  "timezone": "America/Sao_Paulo",
+  "city": "Londrina",
+  "center": {
+    "lat": -23.311288,
+    "lng": -51.159502,
+    "label": "centro de Londrina"
+  },
+  "places": [
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86010-140",
+      "geoNote": "Ponto do edifício no OpenStreetMap. O endereço oficial da paróquia é a Travessa Pe. Eugênio Herter, 33; o mapa nomeia uma via adjacente.",
+      "phone": "(43) 3324-5255",
+      "website": "https://catedrallondrina.com.br/",
+      "instagram": "https://www.instagram.com/catedrallondrina",
+      "tags": [
+        "Missa",
+        "Confissão"
+      ],
+      "notes": "Confissões dentro da catedral, por ordem de chegada, sem agendamento. A missa de domingo às 10h30 é transmitida pela Rádio Alvorada e pelas redes da Catedral. WhatsApp da secretaria: (43) 99991-2368.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Capela da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 1,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "15:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "08:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Transmissão pela Rádio Alvorada e pelas redes da Catedral",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 1,
+          "time": "14:30",
+          "endTime": "17:00",
+          "type": "confissao",
+          "notes": "Até 17h, dentro da catedral, por ordem de chegada",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "14:30",
+          "endTime": "17:00",
+          "type": "confissao",
+          "notes": "Até 17h, dentro da catedral, por ordem de chegada",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "14:30",
+          "endTime": "17:00",
+          "type": "confissao",
+          "notes": "Até 17h, dentro da catedral, por ordem de chegada",
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "catedral-metropolitana",
+      "name": "Catedral Metropolitana Sagrado Coração de Jesus",
+      "kind": "catedral",
+      "address": "Travessa Pe. Eugênio Herter, 33",
+      "neighborhood": "Centro",
+      "lat": -23.31206,
+      "lng": -51.15955,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://catedrallondrina.com.br/",
+      "sourceLabel": "Site da Catedral de Londrina",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86020-080",
+      "geoNote": null,
+      "phone": "(43) 3324-1684",
+      "website": "https://cordemaria.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Confissão",
+        "Adoração"
+      ],
+      "notes": "As confissões são agendadas pelo telefone da secretaria, (43) 3324-1684. Não há grade de horários publicada para o confessionário.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "07:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "07:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "11:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "08:00",
+          "endTime": "11:45",
+          "type": "adoracao",
+          "notes": "Até 11h45",
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "coracao-de-maria",
+      "name": "Paróquia Coração de Maria",
+      "kind": "paroquia",
+      "address": "Avenida Higienópolis, 1073",
+      "neighborhood": "Centro",
+      "lat": -23.319495,
+      "lng": -51.165737,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://cordemaria.com.br/horarios/",
+      "sourceLabel": "Página de horários da Paróquia Coração de Maria",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86020-350",
+      "geoNote": null,
+      "phone": "(43) 3323-9710",
+      "website": "https://imaculadalondrina.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Confissão",
+        "Acessível"
+      ],
+      "notes": "As missas são no templo da Rua Belo Horizonte, 805. A secretaria fica na Rua Tupi, 241, CEP 86020-350 — endereço que a Arquidiocese também publica. O site informa acolhida para idosos, gestantes e cadeirantes, e que não há estacionamento próprio. Horários de confissão não estão publicados: é preciso falar com a secretaria.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "imaculada-conceicao",
+      "name": "Paróquia Imaculada Conceição",
+      "kind": "paroquia",
+      "address": "Rua Belo Horizonte, 805",
+      "neighborhood": "Centro",
+      "lat": -23.311355,
+      "lng": -51.16646,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://imaculadalondrina.com.br/",
+      "sourceLabel": "Site da Paróquia Imaculada Conceição",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86010-180",
+      "geoNote": null,
+      "phone": "(43) 3329-7064",
+      "website": "https://www.paroquiasagradoscoracoes.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Confissão",
+        "Adoração"
+      ],
+      "notes": "Estes horários estavam publicados na página de horários da paróquia. Em 25/11/2026 o domínio não respondeu a uma nova consulta, então a grade fica como parcial. Telefone da Arquidiocese: (43) 3329-7064. A página de horários também cita o WhatsApp (43) 99928-5247. Confirme antes de ir.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "15:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "08:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "16:00",
+          "endTime": "18:30",
+          "type": "confissao",
+          "notes": "Até 18h30",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "16:00",
+          "endTime": "18:30",
+          "type": "confissao",
+          "notes": "Até 18h30",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "14:30",
+          "endTime": "18:00",
+          "type": "adoracao",
+          "notes": "Até 18h",
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "sagrados-coracoes",
+      "name": "Paróquia dos Sagrados Corações",
+      "kind": "paroquia",
+      "address": "Rua Mato Grosso, 1167",
+      "neighborhood": "Centro",
+      "lat": -23.319444,
+      "lng": -51.156167,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://www.paroquiasagradoscoracoes.com.br/horarios-de-missas/",
+      "sourceLabel": "Página de horários da Paróquia dos Sagrados Corações",
+      "scheduleStatus": "parcial",
+      "lastConfirmedAt": null
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86070-000",
+      "geoNote": null,
+      "phone": "(43) 3327-2518",
+      "website": "https://rainhadosapostolos.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Confissão",
+        "Adoração"
+      ],
+      "notes": "A missa de domingo às 16h é em latim, no Novus Ordo. Na primeira quinta-feira do mês há Dia da Palavra às 20h (encontro, não listado como missa). Em solenidades os horários podem mudar. Para confissão fora da sexta-feira, a paróquia pede contato com a secretaria.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "06:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "07:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "16:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Novus Ordo em latim",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "15:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Primeira sexta-feira do mês, em honra ao Sagrado Coração de Jesus",
+          "weekOfMonth": 1
+        },
+        {
+          "weekday": 5,
+          "time": "10:00",
+          "endTime": "12:00",
+          "type": "confissao",
+          "notes": "Até 12h",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "15:00",
+          "endTime": "17:00",
+          "type": "confissao",
+          "notes": "Até 17h",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "06:30",
+          "endTime": "18:00",
+          "type": "adoracao",
+          "notes": "Após a missa das 6h30, até 18h",
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "rainha-dos-apostolos",
+      "name": "Paróquia Nossa Senhora Rainha dos Apóstolos",
+      "kind": "paroquia",
+      "address": "Avenida Tiradentes, 43",
+      "neighborhood": "Jardim Shangri-lá",
+      "lat": -23.302728,
+      "lng": -51.17355,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://rainhadosapostolos.com.br/",
+      "sourceLabel": "Site da Paróquia Nossa Senhora Rainha dos Apóstolos",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86062-430",
+      "geoNote": "O ponto é o edifício religioso no OpenStreetMap, associado à Rua Ituiutaba, no mesmo quarteirão do endereço publicado (Rua Ibirá, 99).",
+      "phone": "(43) 3327-0427",
+      "website": "https://rainhadouniverso.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Terça-feira às 19h a paróquia publica celebração da Palavra, não missa, e por isso ela não entra na grade. Há missa de domingo às 8h30 numa capela cujo endereço não está na página de horários; ela não foi colocada neste ponto para não indicar o lugar errado. Em festas e solenidades os horários podem mudar.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "15:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "rainha-do-universo",
+      "name": "Paróquia Nossa Senhora Rainha do Universo",
+      "kind": "paroquia",
+      "address": "Rua Ibirá, 99",
+      "neighborhood": "Parque Alvorada",
+      "lat": -23.306072,
+      "lng": -51.188094,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://rainhadouniverso.com.br/horarios/",
+      "sourceLabel": "Página de horários da Paróquia Rainha do Universo",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86050-270",
+      "geoNote": "O OpenStreetMap não interpola o número 545. O ponto é o trecho da Avenida Madre Leônia Milito no Guanabara. Use Como chegar com o endereço completo.",
+      "phone": "(43) 3339-0252",
+      "website": "https://saovicentelondrina.com.br/",
+      "instagram": "https://www.instagram.com/saovicentelondrina",
+      "tags": [
+        "Missa",
+        "Confissão",
+        "Estacionamento"
+      ],
+      "notes": "A missa de domingo às 10h é transmitida online. Confissões existem, mas o horário é por agendamento com o pároco, pela secretaria — não há grade publicada. A página da Arquidiocese descreve estacionamento no térreo do centro pastoral.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "08:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Transmitida online",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "sao-vicente-de-paulo",
+      "name": "Paróquia São Vicente de Paulo",
+      "kind": "paroquia",
+      "address": "Avenida Madre Leônia Milito, 545",
+      "neighborhood": "Guanabara",
+      "lat": -23.334893,
+      "lng": -51.169316,
+      "geoPrecision": "via",
+      "sourceUrl": "https://saovicentelondrina.com.br/horarios-de-missas/",
+      "sourceLabel": "Página de horários da Paróquia São Vicente de Paulo",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": null,
+      "geoNote": "O número 280 não está interpolado no OpenStreetMap. O ponto é a Avenida Ruy Ferraz de Carvalho. O site da paróquia usa Rua e Avenida para o mesmo endereço. Use Como chegar.",
+      "phone": "(43) 3326-2749",
+      "website": "https://paroquiasantanalondrina.org/",
+      "instagram": "https://www.instagram.com/paroquiasantanalondrina",
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Grade da matriz. A paróquia também publica missas em capelas, algumas só em certas semanas do mês. A de domingo às 11h30 tem transmissão online. WhatsApp citado no site: (43) 98478-1305.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "11:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Transmissão online",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "17:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "santana",
+      "name": "Paróquia Sant'Ana",
+      "kind": "paroquia",
+      "address": "Rua Ruy Ferraz de Carvalho, 280",
+      "neighborhood": "Terras de Santana II",
+      "lat": -23.349073,
+      "lng": -51.194097,
+      "geoPrecision": "via",
+      "sourceUrl": "https://paroquiasantanalondrina.org/santa-missa/",
+      "sourceLabel": "Página de missas da Paróquia Sant'Ana",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86047-420",
+      "geoNote": "O número 435 não está interpolado. O ponto é a Rua José Nogueira Franco. O CEP publicado pela paróquia é 86047-420.",
+      "phone": "(43) 3341-5226",
+      "website": "https://mdprovidencia.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Adoração"
+      ],
+      "notes": "A notícia de 7/10/2026 lista sábado às 18h. O rodapé do mesmo site acrescenta, no primeiro sábado, terço e adoração às 9h e missa às 10h, e na primeira sexta a novena junto da missa das 19h. As duas informações estão no site; por isso a ficha é parcial. WhatsApp pastoral: (43) 99992-1434.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Na primeira sexta-feira, missa e novena ao Sagrado Coração de Jesus",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "11:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "17:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "10:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Primeiro sábado do mês",
+          "weekOfMonth": 1
+        },
+        {
+          "weekday": 6,
+          "time": "09:00",
+          "endTime": null,
+          "type": "adoracao",
+          "notes": "Primeiro sábado do mês: terço e adoração",
+          "weekOfMonth": 1
+        }
+      ],
+      "slug": "mae-da-divina-providencia",
+      "name": "Paróquia Mãe da Divina Providência",
+      "kind": "paroquia",
+      "address": "Rua José Nogueira Franco, 435",
+      "neighborhood": "Parque Residencial Alcântara",
+      "lat": -23.346456,
+      "lng": -51.167199,
+      "geoPrecision": "via",
+      "sourceUrl": "https://mdprovidencia.com.br/noticias/horario-de-missa",
+      "sourceLabel": "Notícia de horários da Paróquia Mãe da Divina Providência",
+      "scheduleStatus": "parcial",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86040-070",
+      "geoNote": "O número 70 não está interpolado. O ponto é a Rua Pedro Abelardo, no Jardim Califórnia.",
+      "phone": "(43) 3336-3166",
+      "website": "https://santaritalondrina.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Também é paróquia do Decanato Leste. No dia 22, o site publica horários adicionais (6h, 12h, 15h e 19h30 de segunda a sexta; 6h, 12h, 15h e 19h no sábado). Esses horários de um dia do mês não entram na grade semanal. Linha de ônibus citada pelo santuário: 201.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "06:15",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Missa com novena de Santa Rita",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "06:15",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "15:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Primeira sexta-feira: missa do Sagrado Coração de Jesus",
+          "weekOfMonth": 1
+        },
+        {
+          "weekday": 6,
+          "time": "12:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Missa mariana",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "10:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "17:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Missa do romeiro",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "santa-rita-de-cassia",
+      "name": "Santuário Santa Rita de Cássia",
+      "kind": "santuario",
+      "address": "Rua Pedro Abelardo, 70",
+      "neighborhood": "Jardim Califórnia",
+      "lat": -23.334224,
+      "lng": -51.142334,
+      "geoPrecision": "via",
+      "sourceUrl": "https://santaritalondrina.com.br/paroquias",
+      "sourceLabel": "Site do Santuário Santa Rita de Cássia",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86060-340",
+      "geoNote": null,
+      "phone": "(43) 3327-3529",
+      "website": "https://auxiliadoraonline.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "A missa de domingo às 18h30 é transmitida. Intenções de missa, de segunda a sexta, até 17h, e no fim de semana até 11h de sábado, pelo telefone (43) 99992-3529.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 2,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 4,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "11:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "18:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Transmitida online",
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "06:45",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Primeira sexta-feira do mês",
+          "weekOfMonth": 1
+        }
+      ],
+      "slug": "nossa-senhora-auxiliadora",
+      "name": "Paróquia Nossa Senhora Auxiliadora",
+      "kind": "paroquia",
+      "address": "Rua Dom Bosco, 55",
+      "neighborhood": "Jardim Dom Bosco",
+      "lat": -23.311451,
+      "lng": -51.177207,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://auxiliadoraonline.com.br/",
+      "sourceLabel": "Site da Paróquia Nossa Senhora Auxiliadora",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86071-260",
+      "geoNote": "O número não está interpolado, mas o trecho encontrado usa o mesmo CEP publicado pela paróquia, 86071-260.",
+      "phone": "(43) 3338-5333",
+      "website": "https://saojoselondrina.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "WhatsApp publicado no site: (43) 98808-4825. O site também cita a Capela da Reconciliação, sem grade de horários.",
+      "schedules": [
+        {
+          "weekday": 1,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 3,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "19:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "07:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "19:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "sao-jose-operario",
+      "name": "Paróquia São José Operário",
+      "kind": "paroquia",
+      "address": "Rua Ruy Virmond Carnascialli, 486",
+      "neighborhood": "Jardim Leonor",
+      "lat": -23.290712,
+      "lng": -51.19717,
+      "geoPrecision": "via",
+      "sourceUrl": "https://saojoselondrina.com.br/",
+      "sourceLabel": "Site da Paróquia São José Operário",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86031-140",
+      "geoNote": "O número 222 não está interpolado. O ponto é a Rua Nova Esperança, no Conjunto Habitacional Lindóia.",
+      "phone": "(43) 3337-7595",
+      "website": "https://paroquiacristobompastor.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa",
+        "Adoração"
+      ],
+      "notes": "Grade só da matriz, no Lindóia. As comunidades da paróquia têm missas próprias, publicadas na mesma página. A adoração na matriz é na primeira sexta-feira, às 20h.",
+      "schedules": [
+        {
+          "weekday": 2,
+          "time": "20:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 0,
+          "time": "09:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 5,
+          "time": "20:00",
+          "endTime": null,
+          "type": "adoracao",
+          "notes": "Primeira sexta-feira do mês",
+          "weekOfMonth": 1
+        }
+      ],
+      "slug": "cristo-bom-pastor",
+      "name": "Paróquia Cristo Bom Pastor",
+      "kind": "paroquia",
+      "address": "Rua Nova Esperança, 222",
+      "neighborhood": "Conjunto Lindóia",
+      "lat": -23.28441,
+      "lng": -51.123707,
+      "geoPrecision": "via",
+      "sourceUrl": "https://paroquiacristobompastor.com.br/p/atividades-permanentes",
+      "sourceLabel": "Atividades permanentes da Paróquia Cristo Bom Pastor",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86031-530",
+      "geoNote": "O número 373 não está interpolado. O ponto é a avenida no Conjunto Habitacional Mister Thomas.",
+      "phone": "(43) 3337-7595",
+      "website": "https://paroquiacristobompastor.com.br/p/atividades-permanentes",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Comunidade da Paróquia Cristo Bom Pastor. A página também indica adoração na segunda quinta-feira do mês, após a missa das 20h, sem um horário de início separado.",
+      "schedules": [
+        {
+          "weekday": 4,
+          "time": "20:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        },
+        {
+          "weekday": 6,
+          "time": "20:00",
+          "endTime": null,
+          "type": "missa",
+          "notes": null,
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "capela-sao-cristovao",
+      "name": "Capela São Cristóvão",
+      "kind": "capela",
+      "address": "Avenida José Rodrigues Martins, 373",
+      "neighborhood": "Conjunto Mister Thomas",
+      "lat": -23.280524,
+      "lng": -51.128638,
+      "geoPrecision": "via",
+      "sourceUrl": "https://paroquiacristobompastor.com.br/p/atividades-permanentes",
+      "sourceLabel": "Atividades permanentes da Paróquia Cristo Bom Pastor",
+      "scheduleStatus": "confirmado",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86020-060",
+      "geoNote": null,
+      "phone": "(43) 3322-1526",
+      "website": "https://www.imaculadanipo.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "O site da paróquia publica a missa de domingo às 8h30. Não há grade de dias de semana nessa página. A missa de domingo fica registrada; o restante está a confirmar com a secretaria, (43) 3322-1526.",
+      "schedules": [
+        {
+          "weekday": 0,
+          "time": "08:30",
+          "endTime": null,
+          "type": "missa",
+          "notes": "Missa dominical publicada pela paróquia. Horários de semana a confirmar.",
+          "weekOfMonth": null
+        }
+      ],
+      "slug": "nipo-brasileira",
+      "name": "Paróquia Pessoal Nipo-Brasileira Imaculada Conceição",
+      "kind": "paroquia",
+      "address": "Rua Belo Horizonte, 795",
+      "neighborhood": "Centro",
+      "lat": -23.311171,
+      "lng": -51.166559,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://www.imaculadanipo.com.br/missas",
+      "sourceLabel": "Página de missas da Paróquia Nipo-Brasileira",
+      "scheduleStatus": "parcial",
+      "lastConfirmedAt": "2026-11-25"
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86015-440",
+      "geoNote": "Edifício religioso no OpenStreetMap, na Rua Luiz Dias. A Arquidiocese indica o bairro Vila Brasil.",
+      "phone": "(43) 3342-1276",
+      "website": null,
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Endereço e telefone vêm da Arquidiocese. Diretórios de horários divergem entre si e não foram copiados. A grade de missas, confissões e adoração está a confirmar com a secretaria.",
+      "schedules": [],
+      "slug": "nossa-senhora-das-gracas",
+      "name": "Paróquia Nossa Senhora das Graças",
+      "kind": "paroquia",
+      "address": "Rua Luiz Dias, 393",
+      "neighborhood": "Vila Brasil",
+      "lat": -23.328698,
+      "lng": -51.154702,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://arquidioceselondrina.com.br/paroquias/parquia-nossa-senhora-das-graas",
+      "sourceLabel": "Ficha da Arquidiocese de Londrina",
+      "scheduleStatus": "a_confirmar",
+      "lastConfirmedAt": null
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86041-040",
+      "geoNote": "O ponto é o edifício religioso no OpenStreetMap, na esquina com a Avenida Paris, a poucos metros do endereço oficial da Arquidiocese (Rua Braga, 99).",
+      "phone": "(43) 3341-5999",
+      "website": null,
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Endereço e telefone vêm da Arquidiocese. Há posts de redes sociais com horários, mas o número da rua nesses posts (108) não coincide com o da Arquidiocese (99). A grade não foi copiada e está a confirmar.",
+      "schedules": [],
+      "slug": "cristo-redentor",
+      "name": "Paróquia Cristo Redentor",
+      "kind": "paroquia",
+      "address": "Rua Braga, 99",
+      "neighborhood": "Jardim Piza",
+      "lat": -23.349014,
+      "lng": -51.142192,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://arquidioceselondrina.com.br/paroquias",
+      "sourceLabel": "Diretório de paróquias da Arquidiocese de Londrina",
+      "scheduleStatus": "a_confirmar",
+      "lastConfirmedAt": null
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86082-000",
+      "geoNote": null,
+      "phone": "(43) 3338-6585",
+      "website": null,
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Endereço e telefone vêm do cadastro da CNBB. Uma compilação de 2023 e um diretório de terceiros não coincidem na grade semanal. Os horários ficam a confirmar com a secretaria. A CNBB vincula a Capela Nossa Senhora de Guadalupe a esta paróquia, sem endereço publicado nessa ficha.",
+      "schedules": [],
+      "slug": "santa-terezinha",
+      "name": "Paróquia Santa Terezinha do Menino Jesus",
+      "kind": "paroquia",
+      "address": "Avenida Saul Elkind, 5465",
+      "neighborhood": "Jardim Ilha do Mel",
+      "lat": -23.261161,
+      "lng": -51.188609,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://portalcdicbr.cnbb.org.br/igreja/d2188ffe-5fe4-4896-8153-1476e194a9c8",
+      "sourceLabel": "Portal de consultas da CNBB (CDICBR)",
+      "scheduleStatus": "a_confirmar",
+      "lastConfirmedAt": null
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": "86026-220",
+      "geoNote": null,
+      "phone": "(43) 3325-1842",
+      "website": null,
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "Endereço e telefone conferidos no cadastro da circunscrição. Horários que aparecem só em diretórios de terceiros não foram copiados. A grade está a confirmar com a secretaria.",
+      "schedules": [],
+      "slug": "nossa-senhora-de-fatima",
+      "name": "Paróquia Nossa Senhora de Fátima",
+      "kind": "paroquia",
+      "address": "Avenida Dez de Dezembro, 647",
+      "neighborhood": "Vila Casoni",
+      "lat": -23.298893,
+      "lng": -51.144983,
+      "geoPrecision": "edificio",
+      "sourceUrl": "https://divisaodaigreja.com/paroquia-nossa-senhora-de-fatima-vila-casoni/",
+      "sourceLabel": "Cadastro eclesiástico com o endereço da paróquia",
+      "scheduleStatus": "a_confirmar",
+      "lastConfirmedAt": null
+    },
+    {
+      "city": "Londrina",
+      "state": "PR",
+      "postalCode": null,
+      "geoNote": "O número 456 não está interpolado. O ponto é a Rua Aurélio Buarque de Holanda. O bairro exibido é o do OpenStreetMap.",
+      "phone": "(43) 3328-3666",
+      "website": "https://paroquianazare.com.br/",
+      "instagram": null,
+      "tags": [
+        "Missa"
+      ],
+      "notes": "O site publica endereço, telefone e uma agenda que mistura a matriz com as capelas São José de Anchieta e Santa Rosa de Lima. A grade semanal da matriz não ficou inequívoca na leitura do texto, então os horários permanecem a confirmar em vez de serem estimados.",
+      "schedules": [],
+      "slug": "nossa-senhora-de-nazare",
+      "name": "Paróquia Nossa Senhora de Nazaré",
+      "kind": "paroquia",
+      "address": "Rua Aurélio Buarque de Holanda, 456",
+      "neighborhood": "Parigot de Souza",
+      "lat": -23.267014,
+      "lng": -51.177024,
+      "geoPrecision": "via",
+      "sourceUrl": "https://paroquianazare.com.br/",
+      "sourceLabel": "Site da Paróquia Nossa Senhora de Nazaré",
+      "scheduleStatus": "a_confirmar",
+      "lastConfirmedAt": null
+    }
+  ]
+}
