@@ -1,0 +1,144 @@
+@import "tailwindcss";
+
+:root {
+  --ivory: #fbf6ec;
+  --paper: #fffdf8;
+  --navy: #10243f;
+  --navy-deep: #0b1a30;
+  --ink: #142033;
+  --muted: #31445d;
+  --line: #e3d5ba;
+  --gold: #7a5b22;
+  --gold-bright: #f0d48a;
+  --moss: #1c4a38;
+}
+
+@theme inline {
+  --color-ivory: var(--ivory);
+  --color-paper: var(--paper);
+  --color-navy: var(--navy);
+  --color-navy-deep: var(--navy-deep);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-gold: var(--gold);
+  --color-gold-bright: var(--gold-bright);
+  --color-moss: var(--moss);
+  --font-sans: var(--font-atkinson);
+  --font-serif: var(--font-cormorant);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--ivory);
+  color: var(--ink);
+  font-family: var(--font-atkinson), "Segoe UI", sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+.font-serif {
+  font-family: var(--font-cormorant), Georgia, serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+a {
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 50;
+  background: var(--navy);
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 999px;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+.parish-marker,
+.user-marker {
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  border: 2px solid #f0d48a;
+  box-shadow: 0 8px 18px rgba(16, 36, 63, 0.28);
+}
+
+.parish-marker {
+  background: #10243f;
+  color: #f0d48a;
+  width: 36px;
+  height: 36px;
+}
+
+.user-marker {
+  background: #1c4a38;
+  color: white;
+  width: 22px;
+  height: 22px;
+  border-color: white;
+}
+
+.leaflet-container {
+  font-family: var(--font-atkinson), "Segoe UI", sans-serif;
+  background: #e7eef2;
+  height: 100%;
+  width: 100%;
+  border-radius: 1.5rem;
+}
+
+.leaflet-control-zoom a {
+  width: 44px !important;
+  height: 44px !important;
+  line-height: 44px !important;
+  font-size: 1.4rem !important;
+}
+
+.leaflet-popup-content {
+  margin: 0.85rem 1rem;
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.leaflet-popup-content a {
+  color: #10243f;
+  font-weight: 700;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
